@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["DecodeError","Allows custom errors to be decoded back to their original enum"]]});

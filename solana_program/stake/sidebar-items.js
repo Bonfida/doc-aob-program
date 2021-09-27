@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["config","config for staking carries variables that the stake program cares about"],["instruction",""],["program",""],["state",""]]});

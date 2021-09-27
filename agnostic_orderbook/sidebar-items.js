@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CRANKER_REWARD","The minimum fee that is payed for opening an order. Fees are payed out to consume event crankers."]],"mod":[["instruction","Program instructions and their CPI-compatible bindings"],["msrm_token",""],["state","Describes the different data structres that the program uses to encode state"]]});

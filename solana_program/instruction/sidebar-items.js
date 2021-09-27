@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["InstructionError","Reasons the runtime might have rejected an instruction."]],"fn":[["checked_add",""]],"struct":[["AccountMeta","Account metadata used to define Instructions"],["CompiledInstruction","An instruction to execute a program"],["Instruction",""]]});

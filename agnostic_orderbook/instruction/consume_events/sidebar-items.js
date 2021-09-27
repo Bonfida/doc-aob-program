@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Params","The required arguments for a consume_events instruction."]]});

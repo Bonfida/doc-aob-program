@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["invoke","Invoke a cross-program instruction"],["invoke_signed","Invoke a cross-program instruction with program signatures"]]});

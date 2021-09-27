@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["declare_id",""],["program_declare_id",""],["pubkeys",""],["respan","A proc-macro which respans the tokens in its first argument (a `Path`) to be resolved at the tokens of its second argument. For internal use only."]]});

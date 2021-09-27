@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["SECP256K1_PUBLIC_KEY_LENGTH",""],["SECP256K1_SIGNATURE_LENGTH",""]],"enum":[["Secp256k1RecoverError",""]],"fn":[["secp256k1_recover",""]],"struct":[["Secp256k1Pubkey",""]]});
